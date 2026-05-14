@@ -56,7 +56,12 @@ Conducted advanced research at **AIMS Ghana** on biological regulatory pathways:
 - **System Analysis:** Evaluated design principles of oscillators to understand how timing and degradation rates determine system success.
 
 ### **MSc Financial Engineering (In Progress)**
-Currently pursuing my Master's at **WorldQuant University** with a focus on:
+Currently pursuing an MSc at **WorldQuant University**, with a technical focus on:
+- **Derivative Pricing & Risk:** Modeling financial instruments using stochastic calculus and PDEs.
+- **Portfolio Optimization:** Applying linear algebra and quadratic programming to asset management.
+- **Econometrics:** Using time-series analysis to forecast market volatility and economic shocks.
+
+---
 
 ###  Zambia Macro-Fiscal Analysis – Debt Restructuring & Recovery
 Evaluated a decade of macroeconomic data (2015–2025) to model fiscal recovery and institutional transition:
