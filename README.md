@@ -1,52 +1,98 @@
-## Hi there, I'm Boldwin 👋
+<img width="25%" align="right" alt="Quantitative Analysis GIF" src="https://github.com/BoldwinMax/BoldwinMax/blob/main/data-analyst.gif" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Financial+Engineering;MSc+Mathematical+Sciences;Turning+Data+into+Actionable+Insights;PL-300+Certified+Data+Analyst" alt="Typing SVG" />
-</div>
+# Hi, I'm Boldwin Mweemba 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/boldwin-mweemba"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:boldwin@aims.edu.gh"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+Mathematical Scientist & Financial Engineering Candidate — specialising in the synthesis of high-level quantitative theory and actionable business intelligence. I transform multi-dimensional, noisy datasets into rigorous, evidence-based decision frameworks.
 
-## 🚀 About Me 
-[cite_start]I am a **Data Analyst** with an **MSc in Mathematical Sciences**[cite: 6, 44]. [cite_start]My professional focus is bridging quantitative, mathematical theory with actionable business intelligence. [cite_start]I specialize in building robust data models that transform complex datasets into evidence-based decision frameworks[cite: 7, 70].
+My foundation is an **MSc in Mathematical Sciences (AIMS Ghana)**, rooted in system dynamics and signal processing — specifically, how feedback loops respond to oscillatory inputs. I am currently extending this into an **MSc in Financial Engineering (WorldQuant University)**, focusing on derivative pricing, risk management, and the optimisation of financial systems.
 
-[cite_start]Currently, I am an **MSc Financial Engineering Candidate** at WorldQuant University, further developing my expertise in quantitative modeling and risk management[cite: 43, 107].
+I diagnose operational inefficiencies through stochastic modelling and interactive dashboarding, and translate findings into measurable institutional impact.
 
-## 🔭 Featured Projects
 
-- [cite_start]**Zambia Macro-Fiscal Analysis:** Modeled the synergy between copper price volatility and national debt trends (2015-2025) to evaluate recovery outlooks[cite: 26, 88].
-- [cite_start]**Customer Churn Prediction:** Built predictive models using **XGBoost** and **Logistic Regression**, utilizing **SMOTE** to improve minority-class recall by 22%[cite: 34, 37, 101, 102].
-- [cite_start]**Supply Chain Optimization:** Consolidated disparate sales datasets into unified Power BI models to track regional performance and optimize inventory control[cite: 30, 32, 33, 98].
 
-## 🌱 Currently Learning 
-
-- [cite_start]**Quantitative Finance:** Advanced financial engineering techniques through WorldQuant University[cite: 43, 106].
-- [cite_start]**Machine Learning Refinement:** Deepening my use of libraries like **scikit-learn** and **XGBoost** for predictive accuracy[cite: 10, 75, 101].
-
-## 🛠️ Technical Skillset
-
-#### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Power%20BI-PL--300%20Certified-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-VBA%20%2F%20Macros-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
-</p>
-
-#### Programming & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20Scikit--learn-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-Statistical%20Computing-276DC3?style=flat&logo=r&logoColor=white" alt="R">
-</p>
-
-#### BI & Quantitative Competencies
-<p>
-  <img src="https://img.shields.io/badge/Macro--Fiscal%20Modeling-Expert-FF6B6B?style=flat" alt="Macro-Fiscal">
-  <img src="https://img.shields.io/badge/Risk%20Management-Financial%20Engineering-4ECDC4?style=flat" alt="Risk Management">
-  <img src="https://img.shields.io/badge/ETL%20Logic-Power%20Query-45B7D1?style=flat" alt="ETL">
-</p>
+📬 **Find me online**:
+  <a href="https://linkedin.com/in/boldwin-mweemba" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:boldwin@aims.edu.gh">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
 
 ---
-### 📈 GitHub Stats
-![Boldwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoldwinMax&show_icons=true&theme=radical)
+
+# 📜 Professional Certifications & Credentials
+
+### 🏆 Core Professional Certification
+* **[Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/boldwin-2312/credentials/12f8c48c8b1e470a)** *ID: 12F8C48C8B1E470A*
+
+### 🏦 Financial Engineering & Risk (Columbia University & WorldQuant)
+* **Foundations of Financial Engineering** – WorldQuant University (May 2026)
+* **[Advanced Topics in Derivative Pricing](https://www.coursera.org/account/accomplishments/verify/7LE7LCZ42EPK)** – Columbia University
+* **[Optimization Methods in Asset Management](https://www.coursera.org/account/accomplishments/verify/GWF8J788BPUI)** – Columbia University
+* **[Introduction to Financial Engineering and Risk Management](https://www.coursera.org/account/accomplishments/verify/YX66R6RW03VP)** – Columbia University
+
+### 📊 Quantitative Modeling & Analytics (UPenn & Rice)
+* **[Modeling Risk and Realities](https://www.coursera.org/account/accomplishments/verify/XBDREDROMJG7)** – University of Pennsylvania
+* **[Decision-Making and Scenarios](https://www.coursera.org/account/accomplishments/verify/JFRGHCT3ISP4)** – University of Pennsylvania
+* **[Fundamentals of Quantitative Modeling](https://www.coursera.org/account/accomplishments/verify/63X50A2QH1K8)** – University of Pennsylvania
+* **[Linear Regression for Business Statistics](https://www.coursera.org/account/accomplishments/verify/U1A18LDC0W7J)** – Rice University
+* **[Business Applications of Hypothesis Testing](https://www.coursera.org/account/accomplishments/verify/CXQ3GKN9KAE6)** – Rice University
+* **[Statistical Distributions & Business Decisions](https://www.coursera.org/account/accomplishments/verify/SGKF13IN4IWQ)** – Rice University
+
+### 💼 Business, Tools & Strategy
+* **Business Management** – ESMT Berlin & iiAfrica (IIP Programme)
+* **[Excel Skills for Business Specialization](https://www.coursera.org/account/accomplishments/verify/3LD8H4AOHOVQ)** – Macquarie University
+* **[Mindware: Critical Thinking for the Information Age](https://www.coursera.org/account/accomplishments/verify/E4FI69UMZ82B)** – University of Michigan
+* **[Introduction to Spreadsheets and Models](https://www.coursera.org/account/accomplishments/verify/XZ12M0VQJO48)** – University of Pennsylvania
+
+---
+
+## 🔬 Research & Projects
+
+### **MSc Thesis: Decoding Feedback Loop Response to Oscillatory Signals**
+Conducted research at **AIMS Ghana** on biological regulatory pathways:
+- **Oscillatory Dynamics:** Analyzed system responses to periodic signals, applicable to modeling financial market cycles.
+- **Mathematical Modeling:** Applied differential equations to system stability and signal processing.
+### 🇿🇲 Zambia Macro-Fiscal Analysis – Debt Restructuring & Recovery
+Evaluated a decade of macroeconomic data (2015–2025) to model fiscal recovery and institutional transition:
+- Modeled the structural synergy between **copper price volatility** and national debt trends.
+- Identified how the 2020–22 copper windfall provided the fiscal headroom for durable institutional frameworks and debt restructuring.
+- Developed interactive **Power BI dashboards** to visualize complex interactions between commodity cycles and investor confidence.
+
+### 👥 Customer Churn Prediction – Machine Learning
+Built high-performance predictive models to inform data-driven customer retention strategies:
+- Implemented **XGBoost and Logistic Regression** with engineered features and **RobustScaler** preprocessing.
+- Applied **SMOTE** to address class imbalance, improving minority-class recall by **22%** and overall accuracy by **12%**.
+- Achieved an **ROC-AUC of 0.81** (XGBoost) and **0.74** (Logistic Regression) to identify key churn drivers.
+
+### 📦 Integrated Sales & Supply Chain Optimization
+Consolidated disparate monthly sales datasets into a unified data model for NorthWind Outfitters:
+- Used **Power Query and XLOOKUP** to track revenue trends, profit margins, and regional performance.
+- Optimized inventory control by monitoring stock levels, reorder points, and supplier lead times.
+- Built evidence-based visual frameworks to diagnose operational inefficiencies.
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 GitHub Activity  
+<table>
+  <tr> 
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api?username=BoldwinMax&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+    </td> 
+    <td> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BoldwinMax&theme=dark&hide_border=true" /> 
+    </td> 
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoldwinMax&layout=compact&theme=dark&hide_border=true" />
+    </td> 
+  </tr> 
+</table>
