@@ -50,10 +50,15 @@ I diagnose operational inefficiencies through stochastic modelling and interacti
 ## 🔬 Research & Projects
 
 ### **MSc Thesis: Decoding Feedback Loop Response to Oscillatory Signals**
-Conducted research at **AIMS Ghana** on biological regulatory pathways:
-- **Oscillatory Dynamics:** Analyzed system responses to periodic signals, applicable to modeling financial market cycles.
-- **Mathematical Modeling:** Applied differential equations to system stability and signal processing.
-### 🇿🇲 Zambia Macro-Fiscal Analysis – Debt Restructuring & Recovery
+Conducted advanced research at **AIMS Ghana** on biological regulatory pathways:
+- **Oscillatory Dynamics:** Analyzed how negative feedback loops respond to periodic signals—a concept directly applicable to modeling financial market cycles and asset volatility.
+- **Mathematical Modeling:** Applied differential equations to system stability and signal processing within biochemical networks.
+- **System Analysis:** Evaluated design principles of oscillators to understand how timing and degradation rates determine system success.
+
+### **MSc Financial Engineering (In Progress)**
+Currently pursuing my Master's at **WorldQuant University** with a focus on:
+
+###  Zambia Macro-Fiscal Analysis – Debt Restructuring & Recovery
 Evaluated a decade of macroeconomic data (2015–2025) to model fiscal recovery and institutional transition:
 - Modeled the structural synergy between **copper price volatility** and national debt trends.
 - Identified how the 2020–22 copper windfall provided the fiscal headroom for durable institutional frameworks and debt restructuring.
@@ -74,11 +79,39 @@ Consolidated disparate monthly sales datasets into a unified data model for Nort
 
 ## 🛠 Tech Stack
 
+#### 💻 Programming & Databases
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+#### 🤖 Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0079C1?style=for-the-badge)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Statistical%20Modeling-blue?style=for-the-badge)
+
+#### 📊 Data Manipulation & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-44a8a1?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-ffffff?style=for-the-badge&logo=python&logoColor=black)
+
+#### 📈 Business Intelligence & Engineering
+![Power BI](https://img.shields.io/badge/Power%20BI-PL--300-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-VBA%20%2F%20Macros-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-v2.6.3-lightgrey?style=for-the-badge)
+
+#### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI--Assisted-D97757?style=for-the-badge)
+
+---
+
+
 
 ---
 
