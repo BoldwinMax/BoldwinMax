@@ -92,6 +92,18 @@ Consolidated disparate monthly sales datasets into a unified data model for Nort
 - **Academic Mentorship:** Provided dedicated mentorship to students, guiding them through the application of statistical methods in clinical data and research contexts.
 - **Coursework Management:** Supported grading and maintained rigorous academic records for assigned cohorts, ensuring high standards of educational excellence.
 
+### 💼 Professional Experience
+
+#### **Data Analyst Trainee | Financial Services International Outsourcing (FSIO)** *Lusaka, Zambia | Feb 2026 – Present* *
+**Business Intelligence Solutions:** Successfully completed an intensive technical bootcamp focused on architecting and implementing BI solutions for high-stakes client engagements.  
+* **ETL & Data Integrity:** Leveraged **Power Query** to extract and clean complex transactional datasets, ensuring absolute data integrity for organizational reporting.  
+* **Dashboard Engineering:** Developed robust **Power BI dashboards** that provide stakeholders with visual frameworks for rigorous, evidence-based decision-making.  
+* **Performance Optimization:** Engineered advanced **DAX measures** and optimized data models, significantly increasing reporting speed and analytical accuracy.  
+* **Data Profiling:** Conducted systematic data profiling to identify structural inconsistencies, directly elevating the quality of organizational data assets.  
+
+---
+
+
 
 ## 🛠 Tech Stack
 
