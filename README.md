@@ -50,10 +50,12 @@ I diagnose operational inefficiencies through stochastic modelling and interacti
 ## 🔬 Research & Projects
 
 ### **MSc Thesis: Decoding Feedback Loop Response to Oscillatory Signals**
-Conducted advanced research at **AIMS Ghana** on biological regulatory pathways:
+*Completed at AIMS Ghana (2025)*
+My research focused on the mathematical mechanics of biological regulatory pathways and system stability:
 - **Oscillatory Dynamics:** Analyzed how negative feedback loops respond to periodic signals—a concept directly applicable to modeling financial market cycles and asset volatility.
-- **Mathematical Modeling:** Applied differential equations to system stability and signal processing within biochemical networks.
-- **System Analysis:** Evaluated design principles of oscillators to understand how timing and degradation rates determine system success.
+- **Mathematical Modeling:** Applied differential equations to evaluate system stability and signal processing within biochemical networks.
+- **System Analysis:** Studied how timing and degradation rates determine the success of oscillations in repressive feedback networks.
+- My research in mathematical sciences focused on the stability of dynamic systems under oscillatory pressure. I apply these same differential equations to financial markets to model how asset prices respond to cyclical economic signals and to identify the feedback thresholds that lead to market volatility.
 
 ### **MSc Financial Engineering (In Progress)**
 Currently pursuing an MSc at **WorldQuant University**, with a technical focus on:
@@ -81,6 +83,15 @@ Consolidated disparate monthly sales datasets into a unified data model for Nort
 - Optimized inventory control by monitoring stock levels, reorder points, and supplier lead times.
 - Built evidence-based visual frameworks to diagnose operational inefficiencies.
 ---
+
+## 🎓 Teaching & Mentorship
+
+### **Mathematics Teaching Assistant | Levy Mwanawasa Medical University,Zambia (LMMU)**
+*Jul 2022 – Feb 2024*
+- **Instructional Leadership:** Delivered comprehensive mathematics and statistics tutorials, enabling medical and health sciences students to master quantitative problem-solving.
+- **Academic Mentorship:** Provided dedicated mentorship to students, guiding them through the application of statistical methods in clinical data and research contexts.
+- **Coursework Management:** Supported grading and maintained rigorous academic records for assigned cohorts, ensuring high standards of educational excellence.
+
 
 ## 🛠 Tech Stack
 
