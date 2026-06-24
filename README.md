@@ -2,13 +2,15 @@
 
 # Hi, I'm Boldwin Mweemba 👋
 
-**MSc Mathematical Sciences (AIMS Ghana) · Mastercard Foundation Scholar · MSc Financial Engineering Candidate (WorldQuant University)**
+**Mastercard Foundation Scholar · MSc Mathematical Sciences, AIMS Ghana · MSc Financial Engineering (in progress), WorldQuant University**
 
-I build quantitative models that answer questions institutions haven't yet thought to ask — forecasting Zambia's maize floor price before the government announces it, modelling when load-shedding returns before ZESCO does, and decomposing what actually drove the Kwacha's collapse and recovery when the explanations in circulation didn't fully add up.
+I build data models around the problems Zambia actually faces.
 
-My work sits at the intersection of rigorous mathematical theory and high-stakes decision intelligence. I source the data, build the pipeline, run the model, and deliver something a policymaker, analyst, or executive can open and act on — not just a notebook, but a verdict backed by evidence.
+Load-shedding driven by El Niño droughts. A Kwacha shaped by copper and reserves. A post-debt-crisis recovery that needed separating from commodity luck. A maize price that affects whether the country eats.
 
-My academic foundation is in system dynamics and signal processing — specifically how feedback loops respond to oscillatory inputs — which I now apply to financial markets and macroeconomic systems. I am extending this into an MSc in Financial Engineering at WorldQuant University, focused on derivative pricing, risk management, and portfolio optimisation.
+Each project starts with a real question - one that institutions, planners, and policy-makers are asking right now - and works toward an honest, evidence-based answer. I care as much about the integrity of the data as the sophistication of the method.
+
+I work across Python, R, SQL, Power BI, and Excel - but the tools are secondary to what they produce: models that explain real economic relationships, forecasts that give institutions something to act on, and analysis that is honest about what the data can and cannot say.
 
 📬 **Find me online**:
   <a href="https://linkedin.com/in/boldwin-mweemba" target="_blank">
@@ -42,9 +44,9 @@ My academic foundation is in system dynamics and signal processing — specifica
 * **[Statistical Distributions & Business Decisions](https://www.coursera.org/account/accomplishments/verify/SGKF13IN4IWQ)** — Rice University *(Feb 2026)*
 
 ### 💼 Business, Tools & Strategy
-* **Business Management** — ESMT Berlin & iiAfrica, Industry Immersion Programme *(Aug 2025)*
-* **[Excel Skills for Business Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3LD8H4AOHOVQ)** — Macquarie University *(Feb 2026)*
-* **[Mindware: Critical Thinking for the Information Age](https://www.coursera.org/account/accomplishments/verify/E4FI69UMZ82B)** — University of Michigan *(Feb 2026)*
+* **Business Management** - ESMT Berlin & iiAfrica, Industry Immersion Programme *(Aug 2025)*
+* **[Excel Skills for Business Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3LD8H4AOHOVQ)** - Macquarie University *(Feb 2026)*
+* **[Mindware: Critical Thinking for the Information Age](https://www.coursera.org/account/accomplishments/verify/E4FI69UMZ82B)** - University of Michigan *(Feb 2026)*
 * **[Introduction to Spreadsheets and Models](https://www.coursera.org/account/accomplishments/verify/XZ12M0VQJO48)** — University of Pennsylvania *(Mar 2026)*
 
 ---
@@ -62,23 +64,24 @@ My research focused on the mathematical mechanics of biological regulatory pathw
 ---
 
 ### ⚡ [Zambia Energy Security Risk Model](https://github.com/BoldwinMax/Zambia-Energy-Security-Risk-Model)
-*Motivated by conflicting signals: ZESCO's no-load-shedding assurances vs renewed El Niño warnings from climate scientists.*
+*Motivated by conflicting signals: ZESCO's June 2026 assurance that load-shedding will not return, versus climate experts warning that El Niño is developing again in the Pacific.*
 
 Built a quantitative risk model answering two questions: what actually drives load-shedding in Zambia, and how bad could it get at any given reservoir level?
 
-- Assembled **25 years of data** — Lake Kariba satellite water levels, NOAA El Niño index, ERB generation statistics, GDP, and a carefully sourced load-shedding record.
+- Assembled **25 years of data** — Lake Kariba satellite water levels (Copernicus altimetry), NOAA El Niño index, ERB generation statistics, GDP, and a carefully sourced load-shedding record built from ZESCO press releases and news archives.
+- Load-shedding target has two honest tiers: **2015–2025 confirmed** from press releases; **2006–2014 estimated** from structural narratives and World Bank Enterprise Survey data.
 - Compared OLS regression, a Kariba-only specification, and quantile regression to capture tail risk.
 - **Key finding:** one equation explains 53% of variation: `Load-shedding ≈ 16.1 − 0.21 × (Kariba % full)`
-- El Niño is the root cause, but Kariba is the mechanism — once reservoir level is known, the climate index adds almost no predictive power.
-- Risk is asymmetric: at 20% full, a typical year means ~8 hours of daily cuts, but a bad year reaches 18+.
-- **Verdict:** the 2025–26 solar build-out has reduced exposure, but with hydro dominating capacity, a severe El Niño would still bite. The risk has been reduced, not removed.
+- El Niño is the root cause, but Kariba is the mechanism — once reservoir level is known, the climate index adds almost no predictive power (p = 0.64).
+- **Risk is asymmetric:** at a low reservoir, a typical year means ~8 hours of cuts, but a bad-case (90th percentile) year reaches 18+. Planners should size for the worst case, not the average.
+- Mining (including Power Supply Agreements) consumes ~69% of national electricity — a reservoir crisis is simultaneously an economic crisis.
+- **Verdict:** the 2025–26 solar build-out has reduced Zambia's exposure, but with hydro dominating capacity and copper demand rising toward the 3-million-tonne target, a severe El Niño would still bite. The risk has been reduced, not removed.
 
 ---
 
 ### 🌽 [Zambia FRA Maize Floor Price Predictor](https://github.com/BoldwinMax/Zambia-FRA-Maize-Price-Prediction) — [Live App ↗](https://zambia-fra-maize-price.streamlit.app/)
 *Forecasting Zambia's annual FRA maize floor price ahead of the official government announcement.*
 
-<!-- REPLACE the line below with your actual GIF filename once uploaded to this repo -->
 ![App Demo](https://github.com/BoldwinMax/Zambia-FRA-Maize-Price-Prediction/blob/main/demo.gif?raw=true)
 
 - Built a **Ridge regression model** trained on 24 years of historical FRA pricing decisions.
