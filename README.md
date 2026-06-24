@@ -2,11 +2,13 @@
 
 # Hi, I'm Boldwin Mweemba 👋
 
-Mathematical Scientist & Financial Engineering Candidate — specialising in the synthesis of high-level quantitative theory and actionable business intelligence. I transform multi-dimensional, noisy datasets into rigorous, evidence-based decision frameworks.
+**MSc Mathematical Sciences (AIMS Ghana) · Mastercard Foundation Scholar · MSc Financial Engineering Candidate (WorldQuant University)**
 
-My foundation is an **MSc in Mathematical Sciences (AIMS Ghana)**, rooted in system dynamics and signal processing — specifically, how feedback loops respond to oscillatory inputs. I am currently extending this into an **MSc in Financial Engineering (WorldQuant University)**, focusing on derivative pricing, risk management, and the optimisation of financial systems.
+I build quantitative models that answer questions institutions haven't yet thought to ask — forecasting Zambia's maize floor price before the government announces it, modelling when load-shedding returns before ZESCO does, and decomposing what actually drove the Kwacha's collapse and recovery when the explanations in circulation didn't fully add up.
 
-I diagnose operational inefficiencies through stochastic modelling and interactive dashboarding, and translate findings into measurable institutional impact.
+My work sits at the intersection of rigorous mathematical theory and high-stakes decision intelligence. I source the data, build the pipeline, run the model, and deliver something a policymaker, analyst, or executive can open and act on — not just a notebook, but a verdict backed by evidence.
+
+My academic foundation is in system dynamics and signal processing — specifically how feedback loops respond to oscillatory inputs — which I now apply to financial markets and macroeconomic systems. I am extending this into an MSc in Financial Engineering at WorldQuant University, focused on derivative pricing, risk management, and portfolio optimisation.
 
 📬 **Find me online**:
   <a href="https://linkedin.com/in/boldwin-mweemba" target="_blank">
@@ -75,6 +77,9 @@ Built a quantitative risk model answering two questions: what actually drives lo
 
 ### 🌽 [Zambia FRA Maize Floor Price Predictor](https://github.com/BoldwinMax/Zambia-FRA-Maize-Price-Prediction) — [Live App ↗](https://zambia-fra-maize-price.streamlit.app/)
 *Forecasting Zambia's annual FRA maize floor price ahead of the official government announcement.*
+
+<!-- REPLACE the line below with your actual GIF filename once uploaded to this repo -->
+![App Demo](https://github.com/BoldwinMax/Zambia-FRA-Maize-Price-Prediction/blob/main/demo.gif?raw=true)
 
 - Built a **Ridge regression model** trained on 24 years of historical FRA pricing decisions.
 - Integrates **live World Bank and FRED APIs** (exchange rate, inflation, global maize prices) with embedded crop forecast data.
