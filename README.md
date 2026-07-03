@@ -62,29 +62,28 @@ My research focused on the mathematical mechanics of biological regulatory pathw
 - **System Analysis:** Studied how timing and degradation rates determine the success of oscillations in repressive feedback networks.
 
 ---
-### 🏭 [Zambia Mining Sector Performance Report 2026](https://github.com/BoldwinMax/Zambia-Mining-Sector-Performance-Report-2026) — [Live Report ↗](https://app.powerbi.com/view?r=eyJrIjoiMzkxY2RiNTMtODZkMS00MzRmLTkzNjQtMGM0MGY2YTNiYzMzIiwidCI6IjRmMWIzZGUzLWNlNTItNDRjNC1iNjZjLTdiNjExNDQzMmE1ZCJ9)
-*Does copper actually drive the Zambian economy — or is that just the story we tell ourselves?*
+### 🏭 [Zambia Mining Sector Performance Report 2026](https://github.com/BoldwinMax/Zambia-Mining-Sector-Performance-Report-2026) - [Live Report ↗](https://app.powerbi.com/view?r=eyJrIjoiMzkxY2RiNTMtODZkMS00MzRmLTkzNjQtMGM0MGY2YTNiYzMzIiwidCI6IjRmMWIzZGUzLWNlNTItNDRjNC1iNjZjLTdiNjExNDQzMmE1ZCJ9)
+*Does copper actually drive the Zambian economy - or is that just the story we tell ourselves?*
 
-Built a 7-page Power BI analytical report investigating what actually drives Zambia's mining sector performance. Assembled verified data from six sources: ZEITI portal, ZamStats, Bank of Zambia, World Bank Pink Sheet, World Bank WDI, and Bloomberg.
 
 - Examined production by company, revenue by tax type, company payments to government, FX reserves, ZMW/USD movements, mine energy consumption, and workforce trends across 2009–2026.
 - **Transmission chain confirmed:** copper prices rise → export earnings follow → FX reserves build → Kwacha strengthens → government revenue grows. The 32% Kwacha appreciation between December 2024 and May 2026 traces directly back to copper above $13,000 per tonne.
-- **Energy finding:** mine electricity consumption collapsed 10.6% in 2024 due to the Kariba crisis — not production failures. Energy, not copper prices, is the binding constraint on Zambia's 3 million tonne ambition.
+- **Energy finding:** mine electricity consumption collapsed 10.6% in 2024 due to the Kariba crisis - not production failures. Energy, not copper prices, is the binding constraint on Zambia's 3 million tonne ambition.
 - **Concentration risk:** Kansanshi alone paid ZMW 6.3 billion to government in 2023 — nearly a third of the entire sector's contribution.
-- **Verdict:** copper is delivering. Whether Zambia converts this tailwind into lasting capacity depends on energy reliability, tax predictability, and export logistics — not copper prices alone.
+- **Verdict:** copper is delivering. Whether Zambia converts this tailwind into lasting capacity depends on energy reliability, tax predictability, and export logistics - not copper prices alone.
 
 ---
 ### 🗳️ [Electoral Uncertainty and Exchange Rate Dynamics in Zambia](https://github.com/BoldwinMax/Electoral-Uncertainty-and-Exchange-Rate-Dynamics-in-Zambia)
-*Do Zambian elections move the Kwacha — and if so, why?*
+*Do Zambian elections move the Kwacha - and if so, why?*
 
 Applied a standard event-study methodology to six Zambian electoral events (2006–2021) to test whether elections produce statistically significant abnormal movements in the ZMW/USD exchange rate.
 
 - Used daily Bank of Zambia interbank midrate data spanning 5,074 trading days.
 - Computed Cumulative Abnormal Returns (CARs) over a ±20 trading day window around each election date.
-- **Central finding:** the Kwacha does not respond to electoral uncertainty in general — it responds selectively to credibility signals.
-- The 2021 regime-change election produced a **35% log-scale appreciation** — strongly significant (p = 0.002) — beginning two weeks before polling day.
+- **Central finding:** the Kwacha does not respond to electoral uncertainty in general - it responds selectively to credibility signals.
+- The 2021 regime-change election produced a **35% log-scale appreciation** - strongly significant (p = 0.002) — beginning two weeks before polling day.
 - Four other elections produced no statistically significant abnormal returns.
-- **Verdict:** markets price electoral outcomes to the extent they signal a change in the fiscal and reform trajectory — not simply because an election is happening.
+- **Verdict:** markets price electoral outcomes to the extent they signal a change in the fiscal and reform trajectory - not simply because an election is happening.
 
 
 
