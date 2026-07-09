@@ -62,6 +62,17 @@ My research focused on the mathematical mechanics of biological regulatory pathw
 - **System Analysis:** Studied how timing and degradation rates determine the success of oscillations in repressive feedback networks.
 
 ---
+### 🧾 [Zambia Tax Revenue Concentration Analysis (2018–2023)](https://github.com/BoldwinMax/Zambia-Tax-Revenue-Concentration-Analysis-2018-2023) - [Live Report ↗](https://app.powerbi.com/view?r=eyJrIjoiYjAyMjgwMzYtYmJiYy00M2ZmLWIyZmEtMzA2MzA4MGU1ODliIiwidCI6IjRmMWIzZGUzLWNlNTItNDRjNC1iNjZjLTdiNjExNDQzMmE1ZCJ9)
+*ZRA is expected to fund up to 80% of the national budget by 2028. So who is actually funding ZRA right now?*
+
+- This Power BI report inten,ds to examining who carries Zambia's tax revenue - by taxpayer size, sector, ownership, income band, and trade — using ZRA's 2023 Annual Bulletin, cross-checked against the 2022 and 2021 bulletins for every overlapping year.
+- **Six independent measures, one pattern:** Large taxpayers alone account for 79% of domestic tax revenue; private businesses carry 92%; the top 10 sectors bring in 88.6%; the top PAYE band (24% of employees) earns 93% of taxed wages; five countries buy 77.1% of exports. Every lens lands between 36% and 93% concentration.
+- **Mining pays the most and receives the most back:** its domestic tax share swung from 40% to a 51% peak in 2021 and back to 37% by 2023, tracking copper prices — while receiving 90% of every tax incentive approved throughout. In 2023, mining got 8 cents back for every kwacha it paid in tax.
+- **Trade tells the same story:** Zambia flipped from a K6.9 billion deficit (2018) to a K206.9 billion surplus (2023), but 36.1% of exports leave through a single border post and mining and transport together account for nearly two-thirds of export earnings.
+- **Verdict:** revenue growth is real, but the base carrying it never broadened. A concentration this consistent across six unrelated measures is a structural feature of Zambia's fiscal position, not a one-off pattern - and it's the base ZRA is expected to lean on for 80% of the national budget within two years.
+
+---
+
 ### 🏭 [Zambia Mining Sector Performance Report 2026](https://github.com/BoldwinMax/Zambia-Mining-Sector-Performance-Report-2026) - [Live Report ↗](https://app.powerbi.com/view?r=eyJrIjoiMzkxY2RiNTMtODZkMS00MzRmLTkzNjQtMGM0MGY2YTNiYzMzIiwidCI6IjRmMWIzZGUzLWNlNTItNDRjNC1iNjZjLTdiNjExNDQzMmE1ZCJ9)
 *Does copper actually drive the Zambian economy - or is that just the story we tell ourselves?*
 
